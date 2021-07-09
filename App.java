@@ -20,7 +20,7 @@ public class App {
         System.out.print("Introduzca %IVA: ");
         iva = sc.nextDouble();
         */
-        /**double pu=8000;
+        /**double pu=8000;a
         double c=10;
         double iva=16;*/
         //System.out.println(IVA(8000, 10, 16));
